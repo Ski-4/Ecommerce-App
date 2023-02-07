@@ -2,6 +2,8 @@
 
 Link - https://ski-4.github.io/Ecommerce-App/
 
+Ecommerce App created using ReactJS, Tailwind CSS and Dummy API.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
