@@ -180,7 +180,7 @@ function Product() {
                         <div
                             id="product-buy"
                             onClick={addItem}
-                            className="cursor-pointer px-16 py-3 text-slate-800 font-bold bg-slate-200 rounded-md my-8"
+                            className="cursor-pointer select-none px-16 py-3 text-slate-800 font-bold bg-slate-200 rounded-md my-8"
                         >
                             ADD TO CART
                         </div>
